@@ -1,6 +1,6 @@
 # 2D-Car-Game-Using-Ursina-Game-Engine
 
-2D car game is basically a two dimensional grapical raching game in which a car is racing through other cars on road. one can control the movement of the car using 'w' 'a' 's' 'd' keys (to move forward, left, backward, right respectively).
+2D car game is basically a two dimensional grapical racing game in which a car is racing through other cars on road. one can control the movement of the car using 'w' 'a' 's' 'd' keys (to move forward, left, backward, right respectively).
 
 This is very simple project in which i use 'Python' and 'Ursina'. Ursina and python make it quite easy to make this simple game 50 lines of code. There are assests in resouce folder. Also one can get assests from 'opengameart.com'.
 
